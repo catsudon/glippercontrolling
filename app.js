@@ -45,8 +45,8 @@ $('.angle-down').click(function(){
 })
 
 $('.clamp-true').click(function(){
-  clamp.set(true)
+  clamp.set('1')
 })
 $('.clamp-false').click(function(){
-  clamp.set(false);
+  clamp.set('2');
 })
